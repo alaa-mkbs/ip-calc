@@ -85,8 +85,4 @@ Users can download the calculation results as PDF:
 
 ![IPv4 tool screenshot desktop](/assets/img/screenShot_desktop.png)
 
-## 💡 Developer
-
-**[Alaa MEKIBES](https://github.com/alaa-mekibes)**
-
 *Feel free to contribute to this project or report issues through GitHub!*
